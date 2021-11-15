@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Y1S
+name: Y1S test
 
 on:
   repository_dispatch:
